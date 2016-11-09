@@ -1,2 +1,2 @@
 /*
-	Cache-Control: public, max-age: 1234
+	Cache-Control: max-age=1234
